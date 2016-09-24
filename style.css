@@ -1,0 +1,48 @@
+#whole{
+width: 60%;
+margin-left: auto;
+margin-right: auto;
+border: 5px,cyan;
+background-color: black;
+}
+h1{
+	background-color: white;
+	text-align: center;
+	color: black;
+	border: 3px solid black;
+	font-family: impact;
+	font-size: 45px;
+}
+p{
+	background-color: white;
+	color: black;
+	font-family: sans-serif;
+	padding: 5px;
+	font-size: 17px; 
+}
+h2{
+	background-color: white;
+	text-align: center;
+	color: black;
+	border: 3px solid black;
+	font-family: rockwell condensed;
+	font-size: 28px;
+}
+h3{
+	background-color: white;
+	text-align: center;
+	color: gray;
+	border: 20px solid gray;
+	font-family: "Arial Narrow", Arial, sans-serif;
+	font-size: 40px;
+}
+#sir{
+	color: gray;
+	font-size: 23px;
+}
+#site{
+	text-align: center;
+	font-size: 25px; 
+	border: 2px;
+	background-color: white;
+}
